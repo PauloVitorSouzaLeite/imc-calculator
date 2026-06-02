@@ -42,7 +42,7 @@ form div {
     width: 100%;
 }
 input {
-    flex: 0 0 235px;
+    flex: 0 0 200px;
     font-size: 0.950rem;
     background-color: var(--c4);
     border: none;
