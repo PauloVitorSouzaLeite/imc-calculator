@@ -42,11 +42,12 @@ form div {
     width: 100%;
 }
 input {
+    flex: 0 0 235px;
+    font-size: 0.950rem;
     background-color: var(--c4);
     border: none;
     border-radius: 7px;
     padding: 10px 6px;
-    flex: 0 0 270px;
 }
 label {
     color: var(--c3);
